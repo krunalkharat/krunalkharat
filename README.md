@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m a Computer Science & Engineering graduate of 2021 batch. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
-In past i worked with ssit.ltd as web developer & in <a href="http://www.qicesolutions.com/index.php">Qice Technologies</a> as a Ptyhon Programmer.
+In past i worked with <a href="http://www.ssinfotech.org/home/>SSIT</a> as web developer & in <a href="http://www.qicesolutions.com/index.php">Qice Technologies</a> as a Ptyhon Programmer.
 
 Currently, I am looking for a Intern role in Data Science, Machine Learning or related field.
 
