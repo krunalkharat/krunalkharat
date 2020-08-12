@@ -21,7 +21,7 @@ In past i worked with ssit.ltd as web developer & in Qicetechnology.ltd as a Pty
 
 Currently, I am looking for a Intern role in Data Science, Machine Learning or related field.
 
-<h>Things I am good at</h>
+<h1>Things I am good at</h1>
 
 <b>Languages</b>:  Python, SQL, HTML, CSS, JavaScript.
 
