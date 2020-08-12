@@ -35,5 +35,5 @@ Currently, I am looking for a Intern role in Data Science, Machine Learning or r
 
 <h2>How to Reach Me</h2>
 
-<h5>* <a href="https://www.linkedin.com/in/krunalkharat/">Linkdin</a>
+<h5>* <a href="https://www.linkedin.com/in/krunalkharat/">Linkedin</a>
   <h5>* <a href="https://www.instagram.com/krunalkharat/">Instagram</a>
