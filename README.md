@@ -23,7 +23,7 @@ In past i worked with <a href="http://www.ssinfotech.org/home/">SSIT</a> as web 
 
 Currently, I am looking for a Intern role in Data Science, Machine Learning or related field.
 
-<h2>Skills</h2>📈 
+<h2>Skills📈</h2> 
 
 <b>Languages</b>:  Python, SQL, HTML, CSS, JavaScript.
 
