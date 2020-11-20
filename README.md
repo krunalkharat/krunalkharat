@@ -33,6 +33,11 @@ Currently, I am looking for a Intern role in Data Science, Machine Learning or r
 
 <b>Data Analysis</b>: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods, Google Analytics.
 
+<p>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/krunalkharat/count.svg" 
+</p>
+
 <h2>How to Reach Me</h2>
 
 <h5>* <a href="https://www.linkedin.com/in/krunalkharat/">Linkedin</a>
