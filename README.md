@@ -25,7 +25,7 @@ Currently, I am looking for a Intern role in Data Science, Machine Learning or r
 
 <h2>Skills📈</h2> 
 
-<b>Languages</b>:  Python, SQL, HTML, CSS, JavaScript.
+<b>Languages</b>:  Python, SQL, HTML, CSS.
 
 <b>Frameworks</b> : Framework: Flask, React, Bootstrap.
 
