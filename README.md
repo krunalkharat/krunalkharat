@@ -32,10 +32,6 @@ Currently, I am looking for a Intern role in Data Science, Machine Learning or r
 <b>Libraries & Tools</b>: NumPy, Pandas.
 
 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/krunalkharat/count.svg" 
-</p>
-
 <h2>How to Reach Me</h2>
 
 <h5>* <a href="https://www.linkedin.com/in/krunalkharat/">Linkedin</a>
