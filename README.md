@@ -29,10 +29,9 @@ Currently, I am looking for a Intern role in Data Science, Machine Learning or r
 
 <b>Frameworks</b> : Framework: Flask, React, Bootstrap.
 
-<b>Libraries & Tools</b>: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras.
+<b>Libraries & Tools</b>: NumPy, Pandas.
 
-<b>Data Analysis</b>: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Data Wrangling, Data Visualization, Data Warehousing.
-<p>
+
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/krunalkharat/count.svg" 
 </p>
